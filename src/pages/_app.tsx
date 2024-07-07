@@ -14,10 +14,10 @@ function MyApp({ Component, pageProps }: AppProps) {
     return (
         <>
             <DefaultSeo
-                title="Anonymous Chat Room Power By Livekit And Next.js"
+                title="Anonymous Chat Room"
                 titleTemplate="%s"
-                defaultTitle="Anonymous Chat Room Power By Livekit And Next.js"
-                description="Anonymous Chat Room Power By Livekit And Next.js"
+                defaultTitle="Anonymous Chat Room"
+                description="Anonymous Chat Room by X-Ample Development"
                 twitter={{
                     handle: '@livekitted',
                     site: '@livekitted',
