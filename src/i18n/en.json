@@ -9,10 +9,10 @@
         "passwd": "Password"
     },
     "setting":{
-        "setting": "Setting",
+        "setting": "Settings",
         "cdm": "Choice Denoise Method",
-        "passwd": "Setting Password",
-        "capacity": "Setting Capacity"
+        "passwd": "Set Password",
+        "capacity": "Set Capacity"
     },
     "mic":"Microphone",
     "camera": "Camera",

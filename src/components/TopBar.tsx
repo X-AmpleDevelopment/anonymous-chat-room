@@ -27,7 +27,7 @@ const { t, i18n } = useTranslation()
 
 const switchLanguage = () => {
     i18n.changeLanguage(i18n.language=='en'?'zh':'en')
-    setTostMsg(i18n.language=='zh'?'切换为中文':'Switch to English')
+    setTostMsg(i18n.language=='zh'?'切换为中文':'Switched to English')
     if(TostTimer != null){
         setShowToast(false)
         clearTimeout(TostTimer)
